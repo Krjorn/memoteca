@@ -29,7 +29,8 @@ Tornando possível entender como uma aplicação em Angular funciona e é estrut
 Com o Node.js instalado, siga os passos a seguir:
 
 1. Clone ou [baixe](https://github.com/Krjorn/memoteca/archive/refs/heads/main.zip) o projeto
-2. No terminal execute o comando `npm run initialize`
-3. Em seguida execute `npm run dev`
+2. Abra o terminal no diretório em que o projeto se encontra
+3. Ainda no terminal execute o comando `npm run initialize`
+4. Em seguida execute `npm run dev`
 
 Com isso a página do projeto será aberta em seu navegador padrão.
