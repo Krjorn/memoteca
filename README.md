@@ -1,27 +1,35 @@
-# Memoteca
+# Nome do meu projeto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+CRUD desenvolvido como parte do curso "Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD" da Alura.
 
-## Development server
+| :placard: Vitrine.Dev ||
+| ------------- | --- |
+| :sparkles: Nome | **Memoteca**
+| :label: Tecnologias | Angular
+| :rocket: URL | https://github.com/Krjorn/memoteca
+| :fire: Desafio | https://cursos.alura.com.br/course/angular-explorando-frameworke
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![](./project.jpg#vitrinedev)
 
-## Code scaffolding
+## Detalhes do projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Projeto desenvolvido como introdução ao Angular, buscando explorar:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Property bindings
+- Event bindings
+- Diretivas estruturais e de atributos (ngModel, ngClass, ngFor, ngIf)
+- Navegação via Routing
+- Realização de requisições com HttpClient
 
-## Running unit tests
+Tornando possível entender como uma aplicação em Angular funciona e é estruturada.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Rodando o projeto
 
-## Running end-to-end tests
+Com o Node.js instalado, siga os passos a seguir:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone ou [baixe](https://github.com/Krjorn/memoteca/archive/refs/heads/main.zip) o projeto
+2. No terminal execute o comando `npm run initialize`
+3. Em seguida execute `npm run dev`
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Com isso a página do projeto será aberta em seu navegador padrão.
