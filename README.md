@@ -6,7 +6,7 @@ CRUD desenvolvido como parte dos cursos "Angular 14: aplique os conceitos e dese
 | ------------- | --- |
 | :sparkles: Nome | **Memoteca**
 | :label: Tecnologias | Angular
-| :rocket: URL | https://github.com/Krjorn/memoteca
+| :rocket: URL | [Rodando o projeto](https://github.com/Krjorn/memoteca?tab=readme-ov-file#rodando-o-projeto)
 | :fire: Desafio | https://cursos.alura.com.br/course/angular-explorando-framework
 | :fire: Desafio | https://cursos.alura.com.br/course/angular-evoluindo-aplicacao
 
