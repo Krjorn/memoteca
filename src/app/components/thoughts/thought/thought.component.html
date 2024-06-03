@@ -3,6 +3,10 @@
     <p class="conteudo">{{ thought.content }}</p>
     <p class="autoria"><b>{{ thought.author }}</b></p>
     <div class="acoes">
+        <button class="botao-favorito" (click)="updateFavorite()">
+            <img src="./assets/imagens/icone-favorito-{{ toggleFavoriteIcon() }}.png"
+                alt="Ícone favorito {{ toggleFavoriteIcon() }}">
+        </button>
         <button class="botao-editar" routerLink="/listThoughts/editThought/{{ thought.id }}">
             <img src="./assets/imagens/icone-editar.png" alt="Editar">
         </button>

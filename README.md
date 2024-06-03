@@ -1,15 +1,16 @@
 # Nome do meu projeto
 
-CRUD desenvolvido como parte do curso "Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD" da Alura.
+CRUD desenvolvido como parte dos cursos "Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD" e "Angular 14: evoluindo a aplicação" da Alura.
 
 | :placard: Vitrine.Dev ||
 | ------------- | --- |
 | :sparkles: Nome | **Memoteca**
 | :label: Tecnologias | Angular
 | :rocket: URL | https://github.com/Krjorn/memoteca
-| :fire: Desafio | https://cursos.alura.com.br/course/angular-explorando-frameworke
+| :fire: Desafio | https://cursos.alura.com.br/course/angular-explorando-framework
+| :fire: Desafio | https://cursos.alura.com.br/course/angular-evoluindo-aplicacao
 
-![](./project.jpg#vitrinedev)
+![](./project.png#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -18,9 +19,10 @@ Projeto desenvolvido como introdução ao Angular, buscando explorar:
 
 - Property bindings
 - Event bindings
-- Diretivas estruturais e de atributos (ngModel, ngClass, ngFor, ngIf)
+- Diretivas (ngModel, ngClass, ngFor, ngIf)
 - Navegação via Routing
-- Realização de requisições com HttpClient
+- Reactive Forms (FormBuilder, FormGroup, Validators)
+- Realização de requisições com HttpClient e HttpParams
 
 Tornando possível entender como uma aplicação em Angular funciona e é estruturada.
 
